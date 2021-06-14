@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="question_ram1">Rammstein was established in 1994.</string>
+    <string name="question_ram2">Rammstein was created by Till Lindemann.</string>
+    <string name="question_ram3">The author of Rammstein\'s lyrics is Christian Lorenz.</string>
+    <string name="question_ram4">The band\'s first album is called Herzeleid.</string>
+    <string name="question_ram5">This line \" Und die Welt zählt laut bis zehn \" belongs to song Sonne.</string>
+    <string name="question_ram6">The song Klavier is not in the Rammstein repertoire.</string>
+    <string name="question_ram7">All the band members were born in GDR.</string>
+    <string name="question_ram8">The album cover of Mutter depicts an icebreaker.</string>
+    <string name="question_ram9">The album Mutter was released in 2001.</string>
+    <string name="question_ram10">The DVD released by the band in 1999 is called \" Live aus Berlin \".</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="next_button">Next</string>
+    <string name="correct_toast">Correct!
+</string>
+    <string name="incorrect_toast">Incorrect!
+</string>
+</resources>
